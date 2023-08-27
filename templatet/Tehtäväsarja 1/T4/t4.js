@@ -23,6 +23,6 @@ const pisteet = prompt(`Anna saamasi pistemäärä`);
     arvosana = 5
  }
 
-let arvosanasi = 'arvosanasi on ' + arvosana;
+let arvosanasi = 'Arvosanasi on ' + arvosana;
 
  document.getElementById('kohde').innerHTML = arvosanasi;
