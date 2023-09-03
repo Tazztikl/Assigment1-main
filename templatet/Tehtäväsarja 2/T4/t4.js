@@ -1,6 +1,6 @@
 'use strict'
 
-function sortArray(numbers) {
+function sortArray(numerot) {
 const järjestetyt = numerot.slice().sort(function(a, b) {
     return a - b;
 });
